@@ -1,1 +1,6 @@
 c:\users\a_rei\documents\visual studio 2015\Projects\EventLogger\EventLogger\bin\Debug\EventLogger.exe.config
+C:\Users\A_Rei\Documents\Visual Studio 2015\Projects\EventLogger\EventLogger\bin\Debug\EventLogger.exe
+C:\Users\A_Rei\Documents\Visual Studio 2015\Projects\EventLogger\EventLogger\bin\Debug\EventLogger.pdb
+C:\Users\A_Rei\Documents\Visual Studio 2015\Projects\EventLogger\EventLogger\obj\Debug\EventLogger.csprojResolveAssemblyReference.cache
+C:\Users\A_Rei\Documents\Visual Studio 2015\Projects\EventLogger\EventLogger\obj\Debug\EventLogger.exe
+C:\Users\A_Rei\Documents\Visual Studio 2015\Projects\EventLogger\EventLogger\obj\Debug\EventLogger.pdb
